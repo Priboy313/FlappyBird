@@ -27,7 +27,6 @@ namespace Systems.Gameplay.Bird {
 
 		}
 
-
 		private void Update()
 		{
 			if (Input.GetKeyDown(KeyCode.Space))
@@ -37,6 +36,11 @@ namespace Systems.Gameplay.Bird {
 			}
 
 			transform.rotation = Quaternion.Lerp(transform.rotation, _minRotation, _rotationSpeed * Time.deltaTime);
+		}
+
+		public void Reset()
+		{
+			
 		}
 	}
 }
