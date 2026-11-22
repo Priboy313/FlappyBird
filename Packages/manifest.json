@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "com.priboy313.custom-unity-devtools": "https://github.com/Priboy313/Custom-Unity-DevTools.git?path=Assets/_ExternalAssets/DevTools",
     "com.unity.collab-proxy": "2.11.3",
     "com.unity.feature.2d": "2.0.1",
     "com.unity.ide.rider": "3.0.36",

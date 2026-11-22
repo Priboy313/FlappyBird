@@ -1,5 +1,12 @@
 {
   "dependencies": {
+    "com.priboy313.custom-unity-devtools": {
+      "version": "https://github.com/Priboy313/Custom-Unity-DevTools.git?path=Assets/_ExternalAssets/DevTools",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "2857126dc55b7b26e2b0103e901f5e2ef7e53f21"
+    },
     "com.unity.2d.animation": {
       "version": "9.2.0",
       "depth": 1,
